@@ -1,3 +1,9 @@
+# Foodappui
+This is my attempt on react native self-learning by following the youtube : https://www.youtube.com/watch?v=7_nsd_iNDtY
+Instead of building by using react native cli, I built this by using https://snack.expo.io, downloaded them after completed, and tried to rerun in local.
+
+Credits to Made With Matt. Please check his youtube videos and channel!
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
